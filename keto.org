@@ -5,7 +5,12 @@
   3. [ ] Cream cheese
   4. [ ] Coconut flour
   5. [ ] Coconut flakes
-  6. [ ] Salt
+  6. [ ] Mayonnaise
+  7. [ ] Chipotle pepper powder
+  8. [ ] Salt
+  
+  Mix the mayonnaise and chipotle powder until desired
+  spiciness/smokiness is achieved.
   
   Pre-heat oven to 400° and place bacon on broiling pan, cook bacon
   till it's crispy but still malleable.
@@ -15,6 +20,7 @@
   - Pour bacon grease into a frying pan and turn to high.
   - Fry the battered peppers in the bacon grease until crispy (some
     cream cheese may leak out).
+  - Wrap the fried peppers with the bacon.
 
 * Butter curry chicken with riced cauliflower :INDIAN:BUTTER:CHICKEN:CURRY:CAULIFLOWER:
   
