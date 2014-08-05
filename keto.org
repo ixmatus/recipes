@@ -254,3 +254,17 @@
   - Combine all ingredients into large prep bowl.
   - Chop up eggs and mix in. Do this last so the eggs don't get destroyed.
   - Distribute the mixture into 6 containers.
+* Bacon Salad                                                                        :BACON:SALAD:
+  1. [ ] 2 Packs of Happy Bacon
+  2. [ ] 2 Handfulls of Cremini Mushrooms
+  3. [ ] 1 Onion
+  4. [ ] ½ Cup feta cheese
+
+
+  - Stack bacon slices and "rip" them (with knife of course) down the
+    middle.
+    - Chop into pieces and cook in pan
+    - Keep grease in pan but remove bacon
+  - Sautee mushrooms and onions in bacon grease
+  - Mix bacon, mushrooms, and onions together
+  - Top with Feta
