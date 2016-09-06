@@ -1,8 +1,56 @@
-* Fathead Pizza Crust                                                                        :PIZZA:
-  1. [ ] 1½ cup shredded mozzarella cheese
-  2. [ ] ¾ cup almond flour
-  3. [ ] 1 egg
-  4. [ ] garlic salt or favoite seasoning
+* Chicken Divan Casserole                                    :CASSEROLE:CHEESE:CHICKEN:DINNER:LUNCH:
+  - [ ] 2 boneless chicken breasts
+  - [ ] 3 tbsp butter
+  - [ ] 1 yellow onion
+  - [ ] 3-4 cloves of chopped garlic
+  - [ ] ½ tsp garlic salt
+  - [ ] 1 cup chicken broth
+  - [ ] 5 sprigs of finely chopped parsely
+  - [ ] 1 head of cauliflower, riced
+  - [ ] 1 cup heavy cream
+  - [ ] 1 lemon juiced
+  - [ ] ½ cup mayonnaise
+  - [ ] 3 cups steamed broccoli
+  - [ ] 2 cups shredded cheese
+
+  *Cooking Instructions*
+  1. Preheat the oven to 350°
+  2. Fill a pot about halfway with water. Add both breasts of chicken
+  3. Cook on high and bring to a boil until the chicken is cooked
+     through (180°)
+  4. Meanwhile, cook up the garlic and onions in a medium frying pan
+     on a low heat with the ghee
+  5. While that's cooking, blend up your cauliflower using a food
+     processor or a good blender like a Ninja (or better). Do it for a
+     couple seconds just until it looks like rice
+  6. After about two minutes of the onions cooking, begin adding in
+     the spices one at a time, mixing them into the onions as you go
+  7. When the onions are soft, add the cauliflower
+  8. When the cauliflower is soft, add the chicken broth. Cook,
+     covered for about 10 minutes
+  9. Check on your boiling chicken. Take it out and set it aside if
+     it's reached 180°
+  10. Add the cream and lemon juice and let simmer uncovered on low
+      for about 10 minutes while it reduces. Mix it a few times
+      throughout so it doesn't burn to the bottom
+  11. Add mayo, mix, and turn off burner
+  12. Begin pulling apart your chicken with a fork
+  13. Add half your pulled chicken into the cauliflower cream mixture
+  14. Use the other half to line the bottom of an 8x8 casserole dish
+  15. On top of the chicken, layer in the steamed, chopped broccoli
+  16. Top with the cauliflower cream mixture
+  17. Top with cheddar cheese
+  18. Put in the oven for 30 minutes, covered with tinfoil
+  19. Remove tinfoil and cook 10 more minutes
+
+  Enjoy!
+     
+* Fathead Pizza Crust                                                                 :PIZZA:DINNER:
+  - [ ] 1½ cup shredded mozzarella cheese
+  - [ ] ½ cup almond flour (the original called for ¾ but that turned
+    out to be too much)
+  - [ ] 1 egg
+  - [ ] garlic salt or favoite seasoning
 
   Put mozzarella & cream cheese in a medium size microwaveable bowl
   and microwave for 1 minute, stir, then another 30 seconds and stir
@@ -17,7 +65,7 @@
   Dock (poke rows of holes) the flattened dough with a fork to prevent
   bubbling.
 
-  Season and put it in a 425 degree oven.
+  Season and put it in a 425° oven.
 
   Check after 8 minutes and pop any bubbles that have developed.
 
@@ -26,14 +74,14 @@
   Then dress and top with whatever you want!
   
 * Honey glazed cauliflower                                                 :CAULIFLOWER:HONEY:BACON:
-  1. [ ] 4 strips of slab bacon (savory bacon if you can)
-  2. [ ] 1/4 of an onion chopped
-  3. [ ] 2 cloves of garlic
-  4. [ ] 1 tbsp of garlic olive oil
-  5. [ ] 1 bowl of cauliflower florets
-  6. [ ] 1 tbsp of wild honey
-  7. [ ] 1 or 2 tsp of Harissa
-  8. [ ] 1 tsp of salt
+  - [ ] 4 strips of slab bacon (savory bacon if you can)
+  - [ ] 1/4 of an onion chopped
+  - [ ] 2 cloves of garlic
+  - [ ] 1 tbsp of garlic olive oil
+  - [ ] 1 bowl of cauliflower florets
+  - [ ] 1 tbsp of wild honey
+  - [ ] 1 or 2 tsp of Harissa
+  - [ ] 1 tsp of salt
   
   Makes two bowls.
 
@@ -63,14 +111,14 @@
   badass.
 
 * Bacon wrapped Anaheim peppers                                :BACON:PEPPER:ANAHEIM:CHEESE:STUFFED:
-  1. [ ] 4 medium Anaheim peppers
-  2. [ ] 8 strips of Bacon
-  3. [ ] Cream cheese
-  4. [ ] Coconut flour
-  5. [ ] Coconut flakes
-  6. [ ] Mayonnaise
-  7. [ ] Chipotle pepper powder
-  8. [ ] Salt
+  - [ ] 4 medium Anaheim peppers
+  - [ ] 8 strips of Bacon
+  - [ ] Cream cheese
+  - [ ] Coconut flour
+  - [ ] Coconut flakes
+  - [ ] Mayonnaise
+  - [ ] Chipotle pepper powder
+  - [ ] Salt
   
   Mix the mayonnaise and chipotle powder until desired
   spiciness/smokiness is achieved.
@@ -89,15 +137,15 @@
 
 * Butter curry chicken with riced cauliflower              :INDIAN:BUTTER:CHICKEN:CURRY:CAULIFLOWER:
   
-  1. [ ] 1-2 Tbsp of Ghee (clarified butter used in Indian dishes)
-  2. [ ] Curry paste (bought or made)
-  3. [ ] 1 Roasted Chicken
-  4. [ ] 1 Cauliflower head
-  5. [ ] 2 Cans of coconut milk
-  6. [ ] 1 White onion
-  7. [ ] 4 Carrots, whole
-  8. [ ] Salt
-  9. [ ] Bhut Jolokia
+  - [ ] 1-2 Tbsp of Ghee (clarified butter used in Indian dishes)
+  - [ ] Curry paste (bought or made)
+  - [ ] 1 Roasted Chicken
+  - [ ] 1 Cauliflower head
+  - [ ] 2 Cans of coconut milk
+  - [ ] 1 White onion
+  - [ ] 4 Carrots, whole
+  - [ ] Salt
+  - [ ] Bhut Jolokia
   
   Use a large and deep pan as if you make a lot, there will be a lot
   of liquid.
@@ -119,14 +167,14 @@
 
 * Tuna steak over spaghetti squash                                                     :TUNA:SQUASH:
   
-  1. [ ] 1-2 Tuna steaks
-  2. [ ] 1 Spaghetti squash
-  3. [ ] 2 Tbsp of Coconut oil
-  4. [ ] 1 Tbsp of Kerrygold Butter
-  5. [ ] 3 Stalks of green onion
-  6. [ ] Sweet vinegar (any will do, you can even use Bragg's ACV)
-  7. [ ] Salt
-  8. [ ] Pepper
+  - [ ] 1-2 Tuna steaks
+  - [ ] 1 Spaghetti squash
+  - [ ] 2 Tbsp of Coconut oil
+  - [ ] 1 Tbsp of Kerrygold Butter
+  - [ ] 3 Stalks of green onion
+  - [ ] Sweet vinegar (any will do, you can even use Bragg's ACV)
+  - [ ] Salt
+  - [ ] Pepper
   
   - Stab the squash twice and place in the microwave for 10
     minutes. It should be soft afterwards.
@@ -147,13 +195,14 @@
   Chop the green stalks of the onions, place the steaks on the bed of
   spaghetti squash, garnish with the green onions, drizzle (very
   lightly) the vinegar over the top!
+
 * Tuna bacon morsels over cucumber                                 :TUNA:CUCUMBER:SOYSAUCE:SRIRACHA:
   
-  1. [ ] 1 Tuna steak
-  2. [ ] 1 Stalk of green onion
-  3. [ ] Soy sauce
-  4. [ ] Garlic olive oil
-  5. [ ] Cock sauce
+  - [ ] 1 Tuna steak
+  - [ ] 1 Stalk of green onion
+  - [ ] Soy sauce
+  - [ ] Garlic olive oil
+  - [ ] Cock sauce
   
   Pre-heat oven to 370° and line a pan with tin-foil for the bacon.
   
@@ -173,13 +222,13 @@
 
 * Eggs benedict over rosemary ham and bell pepper                       :EGGS:BENEDICT:ROSEMARY:HAM:
 
-  1. [ ] 2 Eggs
-  2. [ ] 2 Red bell peppers
-  3. [ ] Rosemary ham / ham
-  4. [ ] Hollondaise sauce
-  5. [ ] Chives
-  6. [ ] Salt
-  7. [ ] Pepper
+  - [ ] 2 Eggs
+  - [ ] 2 Red bell peppers
+  - [ ] Rosemary ham / ham
+  - [ ] Hollondaise sauce
+  - [ ] Chives
+  - [ ] Salt
+  - [ ] Pepper
   
   This recipe does not include making of the Hollondaise sauce; I
   personally like to purchase mine at Trader Joes but making it from
@@ -195,18 +244,19 @@
   sauce, and garnish using the chives.
 
   Salt to taste.
+
 * Mac & Cheese                                                              :CAULIFLOWER:MAC:CHEESE:
 
-  1.  [ ] 1 Cauliflower Head (cut into small florets)
-  2.  [ ] 6 Slices Bacon, diced
-  3.  [ ] 1 Cup Cheddar Cheese
-  4.  [ ] 1 Cup Cream Cheese (bacon / basil cream cheese spread)
-  5.  [ ] 1 Cup Mushrooms quartered
-  6.  [ ] 1 Cup Asparagus diced
-  7.  [ ] 8oz Heavy Whipping Cream
-  8.  [ ] 1 Chicken Breast Smoked diced
-  9.  [ ] 1tsp Dijon Mustard
-  10. [ ] 2oz Goat Cheese, soft
+  - [ ] 1 Cauliflower Head (cut into small florets)
+  - [ ] 6 Slices Bacon, diced
+  - [ ] 1 Cup Cheddar Cheese
+  - [ ] 1 Cup Cream Cheese (bacon / basil cream cheese spread)
+  - [ ] 1 Cup Mushrooms quartered
+  - [ ] 1 Cup Asparagus diced
+  - [ ] 8oz Heavy Whipping Cream
+  - [ ] 1 Chicken Breast Smoked diced
+  - [ ] 1tsp Dijon Mustard
+  - [ ] 2oz Goat Cheese, soft
 
   Smoke the chicken. I use the [[http://www.seriouseats.com/2010/07/wok-skills-101-indoor-smoking-how-to-smoke-in-a-wok.html][wok method]], which makes it possible to
   smoke chicken inside the house. You can do this step ahead of time,
@@ -242,43 +292,42 @@
   crust on the top.
 
 * Brownie Cookies                                                                    :COOKIE:BROWNY:
-
-  1.  [ ] 1 Scoop Vanilla Protein Powder
-  2.  [ ] 1/4 Cup Cocoa Powder
-  3.  [ ] 1/4 Tsp Salt
-  4.  [ ] 1/2 Tsp Baking Soda
-  5.  [ ] 1 Tbsp Truvia
-  6.  [ ] 1 Tsp Vanilla Extract
-  7.  [ ] 1 Tsp Almond Extract
-  8.  [ ] 1 Egg
-  9.  [ ] 1 Cup Almond Butter (or real butter?)
-  10. [ ] 1 Tbsp Walden Farms Chocolate Syrup
+  - [ ] 1 Scoop Vanilla Protein Powder
+  - [ ] 1/4 Cup Cocoa Powder
+  - [ ] 1/4 Tsp Salt
+  - [ ] 1/2 Tsp Baking Soda
+  - [ ] 1 Tbsp Truvia
+  - [ ] 1 Tsp Vanilla Extract
+  - [ ] 1 Tsp Almond Extract
+  - [ ] 1 Egg
+  - [ ] 1 Cup Almond Butter (or real butter?)
+  - [ ] 1 Tbsp Walden Farms Chocolate Syrup
   
   Mix 1-4 first, mix 4-9 into that, then put 10 in last. Bake for 12
   minutes @ 350?
-* Chorizo Chipotle Burgers                                                 :CHIPOTLE:BURGER:CHORIZO:
 
-  1. [ ] 80/20 ground beef patties (grilled)
-  2. [ ] Pork chorizo (sautéed on the stove)
-  3. [ ] A couple thin slices of Boar's Head chipotle Gouda
-  4. [ ] Baconnaise spread
-  5. [ ] Raw onion
-  6. [ ] A dollop of Wholly Guacamole
-  7. [ ] A dollop of sour cream
+* Chorizo Chipotle Burgers                                                 :CHIPOTLE:BURGER:CHORIZO:
+  - [ ] 80/20 ground beef patties (grilled)
+  - [ ] Pork chorizo (sautéed on the stove)
+  - [ ] A couple thin slices of Boar's Head chipotle Gouda
+  - [ ] Baconnaise spread
+  - [ ] Raw onion
+  - [ ] A dollop of Wholly Guacamole
+  - [ ] A dollop of sour cream
 
 * Cauliflower Rice Chilli                                                       :CHILLI:CAULIFLOWER:
-  1. [ ] 1 Cauliflower
-  2. [ ] 2lbs of grass-fed ground beef
-  3. [ ] 1 Yellow onion
-  4. [ ] 6 Slices of bacon
-  5. [ ] Tomatoes
-  6. [ ] Cumin
-  7. [ ] Adobo Seasoning
-  8. [ ] Garlic
-  9. [ ] Chipotle pepper
-  10. [ ] Salsa or Pico de Gallo
-  11. [ ] Shredded cheese (or whatever cheese you want)
-  12. [ ] Sour Cream
+  - [ ] 1 Cauliflower
+  - [ ] 2lbs of grass-fed ground beef
+  - [ ] 1 Yellow onion
+  - [ ] 6 Slices of bacon
+  - [ ] Tomatoes
+  - [ ] Cumin
+  - [ ] Adobo Seasoning
+  - [ ] Garlic
+  - [ ] Chipotle pepper
+  - [ ] Salsa or Pico de Gallo
+  - [ ] Shredded cheese (or whatever cheese you want)
+  - [ ] Sour Cream
 
   Rice the cauliflower.
 
@@ -297,16 +346,16 @@
   Bake till cheese is blackened in a few spots.
 
 * Chicken Salad                                                                      :CHICKEN:SALAD:
-  1. [ ] 4 Chicken Breasts
-  2. [ ] 125g Celery
-  3. [ ] 105 g Green peppers
-  4. [ ] 20 g Green Onions
-  5. [ ] ¾ Cup Sugar Free Sweet Relish
-  6. [ ] ¾ Cup Mayo
-  7. [ ] 3 Hardboiled Large Eggs
+  - [ ] 4 Chicken Breasts
+  - [ ] 125g Celery
+  - [ ] 105 g Green peppers
+  - [ ] 20 g Green Onions
+  - [ ] ¾ Cup Sugar Free Sweet Relish
+  - [ ] ¾ Cup Mayo
+  - [ ] 3 Hardboiled Large Eggs
 
 
-  - Preheat oven to 350 degrees and add chicken to an oven safe pan
+  - Preheat oven to 350° and add chicken to an oven safe pan
     with a lid.
   - Add cream to cover chicken and cook for 45-60 minutes until
     chicken is done.
@@ -317,12 +366,12 @@
   - Combine all ingredients into large prep bowl.
   - Chop up eggs and mix in. Do this last so the eggs don't get destroyed.
   - Distribute the mixture into 6 containers.
-* Bacon Salad                                                                        :BACON:SALAD:
-  1. [ ] 2 Packs of Happy Bacon
-  2. [ ] 2 Handfulls of Cremini Mushrooms
-  3. [ ] 1 Onion
-  4. [ ] ½ Cup feta cheese
 
+* Bacon Salad                                                                        :BACON:SALAD:
+  - [ ] 2 Packs of Happy Bacon
+  - [ ] 2 Handfulls of Cremini Mushrooms
+  - [ ] 1 Onion
+  - [ ] ½ Cup feta cheese
 
   - Stack bacon slices and "rip" them (with knife of course) down the
     middle.
